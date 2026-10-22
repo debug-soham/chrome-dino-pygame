@@ -1,4 +1,4 @@
-from game import Game
+from dino_run.game import Game
 
 if __name__ == "__main__":
     Game().run()
